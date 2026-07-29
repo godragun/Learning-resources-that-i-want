@@ -201,6 +201,8 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 | [SeaArt](https://www.seaart.ai) | AI Generator | AI creation agent for art & videos | [www.seaart.ai](https://www.seaart.ai) | Generate stunning art | Yes | N/A |
 | [Gemini Watermark Remover](https://geminiwatermarkremover.io) | AI Tool | Remove Gemini logo online | [geminiwatermarkremover.io](https://geminiwatermarkremover.io) | Clean AI generated images | Yes | N/A |
 
+| [Payload Components](https://www.payload-components.xyz) | Payload CMS block registry and CLI | Installs 67 MIT typed blocks as source and automates Payload v3 + Next.js 15/16 page wiring | [Website](https://www.payload-components.xyz) \| [GitHub](https://github.com/Ducksss/payload-components) | Learn reusable CMS block architecture while avoiding repetitive Pages, renderer, types, and import-map setup | Very | N/A |
+
 ### Certificates & Competitions
 
 | Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
